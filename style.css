@@ -55,6 +55,10 @@ nav {
     font-size: 1.5rem;
 }
 
+.logo a{
+   text-decoration: none;
+}
+
 #menulist {
     display: flex;
     list-style-type: none;
